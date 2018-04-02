@@ -6,7 +6,7 @@
   * 1.1快速创建
 * [API文档](apiwen-dang.md)
   * [map](apiwen-dang/map.md)
-  * layer
+  * [layer](apiwen-dang/layer.md)
   * view
   * style
 
